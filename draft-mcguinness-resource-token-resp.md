@@ -9,17 +9,17 @@ number:
 date:
 consensus: true
 v: 3
-area: Security
-workgroup: "Web Authorization Protocol"
+# area: Security
+# workgroup: "Web Authorization Protocol"
 keyword:
  - resource indicator
 venue:
-  group: "Web Authorization Protocol"
-  type: "Working Group"
-  mail: "oauth@ietf.org"
-  arch: "https://mailarchive.ietf.org/arch/browse/oauth/"
+#  group: "Web Authorization Protocol"
+#  type: "Working Group"
+#  mail: "oauth@ietf.org"
+#  arch: "https://mailarchive.ietf.org/arch/browse/oauth/"
   github: "mcguinness/draft-mcguinness-resource-token-resp"
-  latest: "https://mcguinness.github.io/draft-parecki-oauth-identity-assertion-authz-grant/draft-parecki-oauth-identity-assertion-authz-grant.html"
+  latest: "https://mcguinness.github.io/draft-mcguinness-resource-token-resp/draft-mcguinness-resource-token-resp.html"
 
 author:
  -
